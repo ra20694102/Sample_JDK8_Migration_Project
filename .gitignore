@@ -33,3 +33,6 @@ reports/
 MigrationPlan.md
 EXTRACTION_ANALYSIS.md
 Report.md
+
+# Local migration executor state
+migration-state.json
