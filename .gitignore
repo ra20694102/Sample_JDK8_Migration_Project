@@ -28,7 +28,3 @@ target/
 
 # Analysis and generated reports
 reports/
-
-# Markdown documentation (except README)
-*.md
-!README.md
