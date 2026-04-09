@@ -29,6 +29,6 @@ target/
 # Analysis and generated reports
 reports/
 
-# Markdown documentation (except README)
-*.md
-!README.md
+# Planning and analysis documents
+MigrationPlan.md
+EXTRACTION_ANALYSIS.md
